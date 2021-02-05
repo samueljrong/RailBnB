@@ -1,1 +1,1 @@
-# cs336-webapp
+# RailBnB - A Railway Booking Application
